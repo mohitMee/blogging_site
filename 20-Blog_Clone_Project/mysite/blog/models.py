@@ -2,7 +2,7 @@ from django.db import models
 from django.utils import timezone
 from django.urls import reverse
 # SuperUserInformation
-# User: Jose
+# User: mohit
 # Email: training@pieriandata.com
 # Password: testpassword
 
